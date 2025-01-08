@@ -18,13 +18,13 @@ Welcome to my GitHub profile! I am a **DevOps Engineer** with a strong foundatio
 
 ## 🚀 My Projects
 
-Here are some of the projects I am working on:
+Here are some of the projects I am worked on:
 
-### 1. **[Project Name]**
-   Description of the project, tech stack, and achievements.
+### 1. **AWS VPC Peering and EC2 Instance Connectivity**
+   Established secure VPC peering connection between two AWS VPCs enabling seamless communication between EC2 instances. Showcased expertise in AWS networking and Linux command line tools
 
-### 2. **[Project Name]**
-   Description of the project, tech stack, and achievements.
+### 2. **Secure File Sharing and Notification Automation using Amazon S3**
+   Configured an Amazon s3 bucket using AWS CLI, Amazon SNS for email notifiations and IAM for access control, enabling secure file sharing and automated updates on bucket modifications.
 
 ---
 
@@ -39,18 +39,13 @@ Here are some of the projects I am working on:
 ## 🏆 Certifications
 
 - AWS DevOps
-- AWS Cloud Economics
-- AWS Technical Professional
-- AWS IoT (Technical)
-- AWS Data Analytics
-- [Other certifications or courses]
 
 ---
 
 ## 📬 Contact Me
 
-- LinkedIn: [Adnan Shaikh](https://www.linkedin.com/in/adnan-shaikh/)
-- Email: adnan.shaikh@email.com
+- LinkedIn: [Adnan Shaikh](https://www.linkedin.com/in/shaikhadnan09/)
+- Email: adnanshaikh5308@gmail.com
 
 ---
 
